@@ -1,0 +1,171 @@
+{
+  "admission_process": {
+    "keywords": ["what is the admission process","admission process", "how to take admission", "process", "apply", "admission steps"],
+    "answer": "The admission process includes filling the application form, submitting required documents, and attending counseling. Admission is merit-based and seats are allotted depending on availability."
+  },
+
+  "required_documents": {
+    "keywords": ["what documents are needed","documents", "required documents", "admission documents", "what documents"],
+    "answer": "Required documents include 10th and 12th mark sheets, Transfer Certificate, Migration Certificate, Aadhaar Card, passport-size photos, and caste certificate if applicable."
+  },
+
+  "last_date": {
+    "keywords": ["last date of admission","last date", "admission last date", "apply last date", "deadline"],
+    "answer": "The last date to apply for admission is generally till the end of July or until all seats are filled."
+  },
+
+  "entrance_exam": {
+    "keywords": ["is there entrance exam required","entrance exam", "exam required", "is exam needed", "admission exam"],
+    "answer": "No separate entrance exam is required. Admission is completely based on merit (12th PCM percentage)."
+  },
+
+  "seats_per_branch": {
+    "keywords": ["seats", "seats per branch", "branch seats", "intake capacity"],
+    "answer": "The  branch has an intake capacity of 500 seats."
+  },
+
+  "seats_available": {
+    "keywords": ["how many seats are available","seats available", "vacant seats", "available seats", "remaining seats"],
+    "answer": "Seat availability changes daily. Please contact the admission office for updated information."
+  },
+
+  "reservation_policy": {
+    "keywords": ["reservation", "quota", "category reservation", "reservation policy"],
+    "answer": "Reservation is provided as per government norms for SC, ST, OBC, and EWS categories."
+  },
+
+  "fees_per_year": {
+    "keywords": ["fees", "fee of every course", "fee", "yearly fees", "course fee"],
+    "answer": "The yearly fee for B.Tech ₹1,11,000 and M.Tech fee is ₹1,21,000."
+  },
+
+  "hostel_charges": {
+    "keywords": ["what are the hostel charges","hostel fee", "hostel charges", "hostel cost", "room fee"],
+    "answer": "The hostel fee is ₹45,000 per year, including mess charges. A refundable security deposit of ₹5,000 is applicable."
+  },
+
+  "scholarship": {
+    "keywords": ["scholarship", "scholarships", "fee concession", "govt scholarship"],
+    "answer": "Scholarships are available for merit students, girls, EWS category and through government schemes like Post-Matric and National Scholarship Portal (NSP)."
+  },
+
+  "college_location": {
+    "keywords": ["location", "college location", "address", "where is college"],
+    "answer": "PIIT is located in Uttar Pradesh."
+  },
+
+  "principal": {
+    "keywords": ["principal", "principal name", "college head"],
+    "answer": "The principal of the college is Dr. Princess Pandey, holding M.Tech and PhD in Computer Science."
+  },
+
+  "college_timings": {
+    "keywords": ["college timings", "timings", "time", "opening time"],
+    "answer": "The college timings are from 9:30 AM to 4:30 PM, Monday to Saturday."
+  },
+
+  "campus_facilities": {
+    "keywords": ["what are the campus facilites","campus facilities", "facilities", "infrastructure", "amenities"],
+    "answer": "Campus facilities include smart classrooms, computer labs, library and digital library, WiFi-enabled campus, canteen, sports ground, seminar hall, medical room, CCTV surveillance and parking."
+  },
+
+  "established": {
+    "keywords": ["when was the college established","established", "when college started", "year of establishment"],
+    "answer": "The college was established in the year 2010."
+  },
+
+  "affiliated": {
+    "keywords": ["affiliated", "affiliation", "aktu affiliated"],
+    "answer": "PIIT is affiliated to Dr. A.P.J. Abdul Kalam Technical University (AKTU)."
+  },
+
+  "aicte": {
+    "keywords": ["Is institution approved by aicte ","aicte", "aicte approved", "approved"],
+    "answer": "Yes, the college is approved by the All India Council for Technical Education (AICTE), New Delhi."
+  },
+
+  "uniform": {
+    "keywords": ["Is there any uniform","is there dress code apply in institution","uniform", "dress code", "college uniform"],
+    "answer": "Yes, PIIT follows a formal uniform. Boys: Light blue shirt with navy trousers. Girls: Light blue kurti with navy leggings. Free dress is allowed on designated days."
+  },
+
+  "hostel_boys_girls": {
+    "keywords": ["hostel", "boys hostel", "girls hostel", "hostel available"],
+    "answer": "Yes, separate hostels for boys and girls are available inside the campus."
+  },
+
+  "wifi": {
+    "keywords": ["Is there wifi available for students in hostel","wifi facility","wifi", "internet", "wi-fi available"],
+    "answer": "The campus and hostels have 24x7 WiFi access for students."
+  },
+
+  "mess_timings": {
+    "keywords": ["What is the timing of mess","mess", "mess timings", "food timings", "meal timings"],
+    "answer": "Mess Timings: Breakfast 8:00 AM, Lunch 1:00 PM, Dinner 8:00 PM."
+  },
+
+  "rooms_available": {
+    "keywords": ["How many rooms are available","room availability", "hostel rooms", "vacant rooms"],
+    "answer": "There are 500 rooms in the hostel. Rooms allotment is based on vacancy and is done on a first-come, first-served basis."
+  },
+
+  "hostel_timings": {
+    "keywords": ["What is the hostel timing","hostel timings", "entry timings", "hostel in-out"],
+    "answer": "Hostel timings are 6:00 AM to 9:00 PM for entry and exit."
+  },
+
+  "courses_offered": {
+    "keywords": ["courses", "what courses", "btech course", "available courses"],
+    "answer": "The college offers B.Tech (Bachelor of Technology) and M.Tech(Masters of Technology)."
+  },
+
+  "course_duration": {
+    "keywords": ["What is the duration of course","course duration", "duration", "btech duration"],
+    "answer": "The course duration is 4 years (8 semesters)."
+  },
+
+  "branches": {
+    "keywords": ["branches", "departments", "available branches"],
+    "answer": "Institution offers CSE(Computer Science and Engineering),ECE(Electronics and Communication Engineering)."
+  },
+
+  "branch_intake": {
+    "keywords": ["intake", "branch intake", "it intake"],
+    "answer": "Each branch has an intake of 500 students."
+  },
+
+  "placement_support": {
+    "keywords": ["is placement available","what are the placement facilities","placement", "placement support", "campus interview", "tpo"],
+    "answer": "Yes, the Training & Placement Cell provides aptitude classes, interview preparation, internships, and campus recruitment support."
+  },
+
+  "hiring_companies": {
+    "keywords": ["companies", "hiring companies", "recruiters"],
+    "answer": "Top recruiters include TCS, Infosys, Wipro, HCL, Tech Mahindra, Cognizant, and various IT startups."
+  },
+
+  "admission_contact": {
+    "keywords": ["whom to contact for admission queries","admission contact", "admission helpline", "contact admission"],
+    "answer": "For admission queries, contact +91 976543210 or email: admission@piit.edu."
+  },
+
+  "hostel_contact": {
+    "keywords": ["whom to contact for hostel quesries ","hostel contact", "warden contact", "hostel helpline"],
+    "answer": "For hostel-related queries, contact +91 912345780 or email: hostel@piit.edu."
+  },
+
+  "mtech_fees": {
+    "keywords": ["mtech fee", "mtech fees", "m.tech fee", "mtech cost", "pg fee", "postgraduate fee"],
+    "answer": "The M.Tech fee is ₹1,21,000 per year. Scholarships and assistantships may be available based on merit and government schemes; please contact the admission office for exact waivers and instalment options."
+  },
+
+  "greeting_hello": {
+    "keywords": ["hi", "hello", "hey", "hii", "helo", "good morning", "good afternoon", "good evening", "namaste"],
+    "answer": "Hello! 👋 I am PIIT's virtual assistant — how can I help you today? You can ask about admissions, fees, hostels, courses or placements."
+  },
+
+  "greeting_bye": {
+    "keywords": ["bye", "goodbye", "see you", "see ya", "ttyl", "thanks bye", "thank you bye", "bye bye", "take care"],
+    "answer": "Goodbye! 😊 If you need anything else, just type your question — all the best and have a great day!"
+  }
+ }
